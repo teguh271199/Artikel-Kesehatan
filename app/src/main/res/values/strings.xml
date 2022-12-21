@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Artikel Kesehatan</string>
+    <!--  title  -->
+    <string name="artikel1">Cara biar gemuk</string>
+    <string name="artikel2">Wisata Nusa Ceningan</string>
+    <string name="artikel3">Wisata Nusa Penida</string>
+    <string name="artikel4">Wisata Tiga Gangga</string>
+    <string name="artikel5">Wisata Alas Harum</string>
+    <string name="artikel6">Wisata Bedugul</string>
+    <string name="artikel7">Wisata Danau Tamblingan</string>
+    <string name="artikel8">Wisata Gunung Kawi</string>
+    <string name="artikel9">Wisata GWK</string>
+    <string name="artikel10">Wisata  Kroya</string>
+
+    <!--  deskripsi  -->
+    <string name="deskripsi1">ini deskripsi</string>
+    <string name="deskripsi2">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi3">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi4">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi5">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi6">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi7">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi8">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi9">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="deskripsi10">was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+</resources>
