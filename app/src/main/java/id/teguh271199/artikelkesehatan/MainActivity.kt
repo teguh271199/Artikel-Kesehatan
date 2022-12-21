@@ -20,6 +20,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import id.teguh271199.artikelkesehatan.ui.theme.ArtikelKesehatanTheme
 
 class MainActivity : ComponentActivity() {
